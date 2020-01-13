@@ -54,12 +54,32 @@
 ### 2.2 Data and Information
 + Data: raw material of information
 + Information: data in context
++ Pyramid of Data, information, knowledge, and wisdom
 
 ![Pyramid](https://www.ontotext.com/wp-content/uploads/2018/03/DIKW-Pyramid.png)
 
++ Challenges here
+  - It is based on the assumption that data simply exists, but data has to be created.
+  - It takes knowledge to create data in the first place.
+  - Data and infromation are not separate things, they are dependend on each other. 
+    + Data is a form of information
+    + Information is a form of data
+    + Two terms will be used interchangeably
 
 ### 2.3 Data as Organization Asset
++ An **asset**
+  - is an economic resource, that can be owned or controlled, and tat holds or produces value.
+  - can be converted to money.
++ Monetization of data is becomming increasingly common.
++ Organizations rely on data assets to make more effective decisions and to operate more efficiently.
+  - **data-driven** 
+    + efficient management
+    + professional discipline
+    + a partnership of business and technical expertise
++ Data management is not an option, it is the norm.
+
 ### 2.4 Data Management Principles
+![figure1](../Resources/figure1.png)
 ### 2.5 Data Management Challenges
 ### 2.6 Data Management Strategy
 ## 3. Data Management Frameworks
