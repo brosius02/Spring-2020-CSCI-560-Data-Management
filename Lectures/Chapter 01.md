@@ -193,7 +193,7 @@ Distinct characteristics +  principles => Challenges
 + Deriving value from data starts from planning for better data.
 + Decisions about data involve:
   - The way data connects business processes that might otherwise be seen as separate
-  - The relationship between business processes and the technology taht support them
+  - The relationship between business processes and the technology that support them
   - The design and architecture of system and the data they produce and store
   - The way data might be used to advance organizational strategy
 + Planning for Better Data depends on
@@ -288,13 +288,49 @@ Distinct characteristics +  principles => Challenges
 + They underestimate data management
 + Changllenge:
   - to become better at data management requires vision, planning, and willingness to change.
-+ **Chief Data Office (CDO))
++ **Chief Data Office** (CDO))
   - leads inititives of data management
   - leads cultural change within an organization
 ### 2.6 Data Management Strategy
 + Strategy:
   - is a set of choices and decisions that together chart a high-level course of actions to achieve high-level goals.
 + A data strategy should includes business plans to use information to competitive advantage and support enterprise goals.
++ Data strategy must come from an understanding of the data needs inherent in the business strategy:
+  - What data the organization needs
+  - How it will manage it and ensure its reliability over time
+  - How it will utilize it
++ **Data manamgement strategy** is
+  - required by data strategy
+  - a plan for maintaining and improving the quality of data, data integrity, access, and security while mitigating known and implied risks, addressing known chanllenges related to data manamgement
+  - owned and maintained by **CDO**
+  - enacted through a data governance team
+  - supported by a Data Governance Concil.
++ **Data manamgement strategy** should include:
+  - A complelling vision for data management
+  - A summary business case for data management, with selected examples
+  - Guiding priciples, values, and management perspectives
+  - The mission and long-term directional goals of data management
+  - Proposed measures of data management success
+  - Short-term(12-24 months) Data Management program objectives that are SMART(specific, measurable, actionable, realistic, time-bound)
+  - Descriptions of data management roles and organizations, along with a summary of their responsibilities and decision rights
+  - Descriptions of Data Management prgram components and initiatives
+  - A prioritized program of work with scope boundaries
+  - A draft implementation roadmap with projects and action items,
++ Deliverables from strategic planning for data management  include:
+  - A **Data Management Charter**: 
+    + overall vision
+    + business case
+    + goals
+    + guiding priciples
+    + measures of success
+    + critical success factors
+    + recognized risks
+    + operating model
+    + etc
+  - A **Data Management Scope Statement**:
+    + Goals and objectives for some planning horizon(3 years usually) and the roles, organizations, and individual leaders accoutable for achieving these objectives
+  - A **Data Management Implementation Roadmap**: 
+    + Identifying specific programs, projects, task assignments, and delivery milestones.
 
 ## 3. Data Management Frameworks
 + Why frameworks are needed?
