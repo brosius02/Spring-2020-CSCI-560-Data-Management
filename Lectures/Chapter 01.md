@@ -372,7 +372,7 @@ Distinct characteristics +  principles => Challenges
   - provides a key for reading the DMBOK context diagram.
   - puts gols and principles at the center
 
-![figure6](../Resources/figure6.jpeg)
+![figure6](../Resources/figure6.jpeg = 400*400)
 
 + Knowledge Area Context Diagram
 
