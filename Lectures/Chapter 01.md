@@ -334,12 +334,63 @@ Distinct characteristics +  principles => Challenges
 + Knowledge Area Context Diagram
 
   - describes the detail of the Knowledge Areas
-  - puts activities at the center
+  - puts activities at the center, since they produce the deliverables that meets the requirements of stakeholders.
+  - begins with definition and goals.
+  - classifies activities into 4 phases: P, D, O, C
+  - has inputs and suppliers on the left,  deliverables and comsumsers on the right, participants below activities, Tools, techniques, and metrics on the bottom.
 
 ![figure7](../Resources/figure7.png)
 
 ### 3.4 DMBOK Pyramid (Aiken)
+
++ DMBOK Pyramid (Aiken) describes how organizations evolve toward better data management practices
+
++ Phase 1: The orgranization purchases an application that includes database capabilities.
++ Phase 2: The orgranization gets reliable metadata and consistent Data Architecture for higher quality data(Displined practices for mananging Data Quality, Metadata, and architecture) 
++ Phase 3: Data Governace
++ Phase 4: The orgranization leverages the benefits of well-managed data and advances its analytic capabilities.
+
+![figure8](../Resources/figure8.png)
+
+
 ### 3.5 DAMA Data Management Framework Evolved
+
++ DAMA Functional Area Dependencies
+  - Anoter way to look at DAMA Knowledge Areas is to explore the dependencies between them.
+
+![figure9](../Resources/figure9.png)
+
++ DAMA Management Function Framework
+  - The third way draws aon architectural concepts to propose a set of relationships between DAMA Knowledge Areas by providing additional details about the content of some Knowledge Areas.
+
+![figure10](../Resources/figure10.png)
+
++ DAMA Data Management Framework can also be depicted as an evolution of the DAMA Wheel.
+
+![FIGURE11](https://dama.org/sites/default/files/Figure%2011%20DAMA%20Wheel%20Evolved.png)
 ## 4. DAMA and the DMBOK
 + DAMA: Data Management Association International
+  - DAMA was founded to address challenges in data management.
 + DMBOK:  The DAMA Guide to the Data Management Body of Knowledage
+  - an accessible, authoritative reference book for data management professionals.
+    + providing functional framework
+    + establishing a common vocabulary
+    + serving as the fundamental reference guide
+  - 11 Knowledge Areas
+    + Data Governance
+    + Data Architecture
+    + Data Modeling and Design
+    + Data Storage and Operations
+    + Data Security
+    + Data Integration and Interoperability
+    + Document and Content Management
+    + Reference and Master Data
+    + Data Warehousing and Business Intelligence
+    + Metadata
+    + Data Quality
+  - Other topics
+    + Data Handling Ethics
+    + Big Data and Data Science
+    + Data Mangement Maturity Assessment
+    + Data Mnagement Organization and Role Expectations
+    + Data Management and Organization Change Management
