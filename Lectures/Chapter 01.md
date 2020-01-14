@@ -439,6 +439,6 @@ Distinct characteristics +  principles => Challenges
     + Data Management and Organization Change Management
 
 # Discussion Topics
-[Data as currency](../Resources/ch01-1.pdf)
+[Data as fuel of the future](../Resources/ch01-1.pdf)
 
-[Data as fuel of the future](../Resources/ch01-2.pdf)
+[Data as currency](../Resources/ch01-2.pdf)
