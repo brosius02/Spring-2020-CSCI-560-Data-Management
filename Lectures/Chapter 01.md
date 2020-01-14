@@ -437,3 +437,7 @@ Distinct characteristics +  principles => Challenges
     + Data Mangement Maturity Assessment
     + Data Mnagement Organization and Role Expectations
     + Data Management and Organization Change Management
+
+# Discussion Topics
+[Data as currency](../Resources/ch01-1.pdf)
+[Data as fuel of the future](../Resources/ch01-2.pdf)
