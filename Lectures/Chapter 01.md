@@ -29,6 +29,13 @@
   - non-technical(business)
   - Both must be able to collaborate.
 
+### Goals of data management
++ Understanding and supporting the information needs of the enterprise and its stakeholders, including customers, employees, and business partners
++ Capturing, storing, protecting , and ensuring the integrity of data assets.
++ Ensuring the quality of data and information
++ Ensuring the privacyand confidentiality of stakeholder data
++ Preventing unauthorized or inappropriate access, manipulation, or use of data and information
++ Ensuring data can be used effectively to add value to the enterprise
 ## 2. Essential Cocepts
 ### 2.1 Data
 #### Definition
@@ -66,9 +73,9 @@
     + Information is a form of data
     + Two terms will be used interchangeably
 
-### 2.3 Data as Organization Asset
+### 2.3 Data as an Organizational Asset
 + An **asset**
-  - is an economic resource, that can be owned or controlled, and tat holds or produces value.
+  - is an economic resource, that can be owned or controlled, and that holds or produces value.
   - can be converted to money.
 + Monetization of data is becomming increasingly common.
 + Organizations rely on data assets to make more effective decisions and to operate more efficiently.
