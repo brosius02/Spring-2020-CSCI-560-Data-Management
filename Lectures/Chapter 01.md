@@ -228,11 +228,77 @@ Distinct characteristics +  principles => Challenges
   - Differences in representational choices
 + Solution
   - data governance
-### 2.6 Data Management Strategy
+#### 2.5.8 Accouting for other perspectives
++ Different legal and compliance requirements across national and industry lines
++ Knowledge of the potential use of data
++ Risks of the misuse of data
+### 2.5.9 The Data Lifycycle
 
+![figure2](../Resources/figure2.png)
+
++ Challenges
+  - As data is used or enhanced, new data is often created. Data is rarely static.
+  - lineage/data chain: a pathway along which it moves from its point of origin to its point of usage.
+    + Lineage requires documenting the orginal data sets and theire movement and transformation through system.
++ Implications
+  - Creation and usage are the most critical points in the data lifycycle.
+  - Data Quality must be managed throughout the data lifecycle.
+  - Metadata Quality must be managed throughout the data lifecycle.
+  - Data Security must be managed throughout the data lifecycle.
+  - Data management efforts should focus on the most critical data
+#### 2.5.10 Different Types of Data
++ Data can be classified by 
+  - type:
+    + transactional data
+    + Reference data
+    + master data
+    + metadata
+    + alternatively category data
+    + ...
+  - content 
+    + data domain
+    + subject area
+  - format
+  - level of protection
+  - how and where it is stored or accessed
++ Chanllenge: different types of data => different
+  - requirements
+  - risks
+  - roles within the organization
++ Solution: Many of the tools of data management focus on aspects of classification and control.
+#### 2.5.11 Data and Risks
++ Low quality data is risky because  its information is not correct.
++ High quality data is risky because it can be misunderstood and misused.
+  -  e.g.: the information gap: The difference between what we know and what we need to know to make an effective desicion
++ focus by regulators and legislators on the potential uses and abuses of information.
++ Comstomers become more aware of how their data is used.
+#### 2.5.12 Data management and technology
++ Data management is strongly infuenced by technology.
++ data requirments aligned with business stratey should drive decisions about technology. (prevent technological temptation from driving their decisions about data)
+#### 2.5.13 Effective data management requires leadership and commitment
++ Organizations are far from being data-driven, even they recognize their data as an asset.
++ They do not know data management
++ They underestimate data management
++ Changllenge:
+  - to become better at data management requires vision, planning, and willingness to change.
++ **Chief Data Office (CDO))
+  - leads inititives of data management
+  - leads cultural change within an organization
+### 2.6 Data Management Strategy
++ Strategy:
+  - is a set of choices and decisions that together chart a high-level course of actions to achieve high-level goals.
++ A data strategy should includes business plans to use information to competitive advantage and support enterprise goals.
 
 ## 3. Data Management Frameworks
++ Why frameworks are needed?
+  - Data management involves a set of interdependent functions, each with its own goals, activities, and responsibilities.
+  - Data management professionals' tasks are also very complicated.
+  - Frameworks developed at different levels of abstractions provide a range of perspective on how to approach data management.
 ### 3.1 Strategic Alignment Model
++ abstracts the fundamental drivers for any approach to data management.
+
+![figure3](../Resources/figure3.png)
+
 ### 3.2 The Amsterdam Information Model
 ### 3.3 The DAMA-DMBOK Framework
 ### 3.4 DMBOK Pyramid (Aiken)
