@@ -95,7 +95,7 @@
 
 ![PIPEDA](https://image.slidesharecdn.com/personalinformationprotectionandelectronicdocumentsactpipedaandapplicationsecurityandsensitivedataha-170712191102/95/personal-information-protection-and-electronic-documents-act-pipeda-and-implications-for-application-security-and-sensitive-data-handling-in-software-systems-14-638.jpg?cb=1506354909)
 
-+ United States Privacy Program Criteria
++ United States Privacy Program Criteria by the US Federal Trade Commision(FTC, March 2012)
 
 | Principle            | Description of Principle                                                                                                                                                               |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -105,20 +105,46 @@
 | Integrity/Security   | Data collectors must take reasonable steps to assure that information collected from consumers is accurate and secure from unauthorized use.                                           |
 | Enforcement/Redress  | The use of a reliable mechanism to impose sanctions for noncompliance with these fair information practices.                                                                           |
 
+### Summary
++ There is a global trend towards legislative protection of individuals' information privacy.
++ It is important that organizations have policies and guidenlines that enable staff to follow legal requirements.
 
 ## 3.3 Online Data in an Ethical Context
++ Ownership of data
++ The rights to be forgotten
++ Identity
++ Freedom of sppech online
 
 ## 3.4 Risks of Unethical Data Handling Practices
++ Data can be misused by
+  - judicious data selection
+  - manipulation of scale
+  - omission of some data points
 
 ### 3.4.1 Timing
++ Omission or inclusion of centain data points in a report or activity based on timing
 
 ### 3.4.2 Misleading Visualizations
++ Charts and graphs can be used to present data in a misleading manner.
+  - changing scale for example
 
 ### 3.4.3 Unclear Definitions or Invalid Comparisions
++ The ethnic thing to do, in presenting information, is to provide context that informs its meaning.
 
 ### 3.4.4 Bias
++ Data collection for pre-defined result
++ Biases use of data collected
+  - some data may be discarded if it does not confirm a pre-determined approach
++ Hunch and search
++ Biased sampling methodology
++ Context and culture
 
 ### 3.4.5 Transforming and Integrating Data
++ Data integration presents ethical challenge because data is changed as it moves from system to system. which may present risks:
+  - Limited knowledge of data's origin and lineage
+  - Data of poor quality
+  - Unreliable metadata
+  - No documentatoin of data remediation history
 
 ### 3.4.6 Obfuscation/Redaction of Data
 
