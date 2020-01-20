@@ -147,10 +147,26 @@
   - No documentatoin of data remediation history
 
 ### 3.4.6 Obfuscation/Redaction of Data
++ Obfuscation or redacting data is the practice of making information anonymous, or removing sensitive information.
++ The data may be exposed in a downstream activity(analysis or combinaton with other datasets).
+  - Data aggregation(see Chapters 7 and 14)
+  - Data marking
+  - Data masking
 
 ## 3.5 Establishing an Ethical Data Culture
++ Establishing a culture of ethical data handling requires 
+  - **codes of conducts**: understanding existing practices, defining expected behaviors, codifying tehse in policies and a code of ethics, providing training and oversight to enforce expected behaviors, and strong leadership.
+  - **clear communication and governace control**(so that to highlight the problem or stop the process)
+  - **formal Organizatinal Change Management(OCM) process** (see Chapter 17)
 
 ### 3.5.1 Review Current State Data Handling Practices
++ purpos  
+  - to understand the degree they are directly and explicitly connected to ethical and compliance drivers
++ activity
+  - identify how well employees understand the ethical implications of existing practices in building and perserving the trust of customers, partners, and other stakeholders.
++ deliverable
+  - document ethical principles that underlie the organization's collection, use, and oversight of data, throughout the data lifecycle, including data sharing activities.
+
 
 ### 3.5.2 Identify Priciples, Practices, and Risk Factors
 
