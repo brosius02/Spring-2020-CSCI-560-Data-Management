@@ -83,10 +83,27 @@
 + Data governance is a vital tool for ensuring these principles.
 
 ## 3.2 Principles Behind Data Privacy Law
-+ General Data Protection Regulation onf the EU (GDPR, 2016)
++ General Data Protection Regulation of the EU (GDPR, 2016): 
+  - rights to acess, rectification of inaccurate data, portiblity
+  - rights to object to processing of personal data that may cause damange or distress, and erasure
+  - consent that must be affirmative action that is freely gien, specific, informed, and unambiguous.
 
-![](https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/The-7-GDPR-personal-data-processing-principles-view-with-accountability-of-the-controller-for-the-6-principles-added-source-and-courtesy-ServeIT.gif)
+![GDPR](https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/The-7-GDPR-personal-data-processing-principles-view-with-accountability-of-the-controller-for-the-6-principles-added-source-and-courtesy-ServeIT.gif)
 
++ Canadian Privacy Statutory Obligations
+  - applies PIPEDA(Personal Information Protection and Electronic Documents Act) to organizations that collect, use, and sisseminate peronal information in the course of commercial activities.
+
+![PIPEDA](https://image.slidesharecdn.com/personalinformationprotectionandelectronicdocumentsactpipedaandapplicationsecurityandsensitivedataha-170712191102/95/personal-information-protection-and-electronic-documents-act-pipeda-and-implications-for-application-security-and-sensitive-data-handling-in-software-systems-14-638.jpg?cb=1506354909)
+
++ United States Privacy Program Criteria
+
+| Principle            | Description of Principle                                                                                                                                                               |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Notice/Awareness     | Data collectors must disclose their information practices before collecting personal information from consumers.                                                                       |
+| Choice/Consent       | Consumers must be given options with respect to whether and how personal information collected from them may be sued for purposes beyond those for which the information was provided. |
+| Access/Participation | Consumers should be able to view and contest the accuracy and completeness of data collected about them.                                                                               |
+| Integrity/Security   | Data collectors must take reasonable steps to assure that information collected from consumers is accurate and secure from unauthorized use.                                           |
+| Enforcement/Redress  | The use of a reliable mechanism to impose sanctions for noncompliance with these fair information practices.                                                                           |
 
 
 ## 3.3 Online Data in an Ethical Context
