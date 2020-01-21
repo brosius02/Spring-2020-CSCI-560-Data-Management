@@ -85,7 +85,7 @@
 
 ## 3.2 Principles Behind Data Privacy Law
 + General Data Protection Regulation of the EU (GDPR, 2016): 
-  - rights to acess, rectification of inaccurate data, portiblity
+  - rights to acess, rectification of inaccurate data, portablity
   - rights to object to processing of personal data that may cause damange or distress, and erasure
   - consent that must be affirmative action that is freely gien, specific, informed, and unambiguous.
 
