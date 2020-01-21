@@ -135,11 +135,16 @@
 
 ### 3.4.4 Bias
 + Data collection for pre-defined result
+  - The analyst is pressured to collect data and produce results in order to reach a pre-defined conclusion, rather than as an effort to draw an objective conclusion.
 + Biases use of data collected
-  - some data may be discarded if it does not confirm a pre-determined approach
+  - The analyst is pressured to use the unbiased data to confirm a pre-determined approach. Some data may be manipupalted (e.g. discarded) if it does not confirm a pre-determined approach.
 + Hunch and search
+  - The anylyst has a hunch and wants to satisfy that hunch, but use only the data that confirms that hunch and does not account for other possibilities that the data may surface.
 + Biased sampling methodology
+  - To limit bias, use statistical tools to select samples and establish adequate sample size.
+  - Bias in the training data set is particularly important.
 + Context and culture
+  - Biases are often culturally or contextually-based, so stepping outside that culture or context is required for a neutral look at the situation.
 
 ### 3.4.5 Transforming and Integrating Data
 + Data integration presents ethical challenge because data is changed as it moves from system to system. which may present risks:
