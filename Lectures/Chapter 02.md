@@ -157,7 +157,7 @@
 
 ## 3.5 Establishing an Ethical Data Culture
 + Establishing a culture of ethical data handling requires 
-  - **codes of conducts**: understanding existing practices, defining expected behaviors, codifying tehse in policies and a code of ethics, providing training and oversight to enforce expected behaviors, and strong leadership.
+  - **codes of conducts**: understanding existing practices, defining expected behaviors, codifying these in policies and a code of ethics, providing training and oversight to enforce expected behaviors, and strong leadership.
   - **clear communication and governace control**(so that to highlight the problem or stop the process)
   - **formal Organizatinal Change Management(OCM) process** (see Chapter 17)
 
