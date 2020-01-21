@@ -189,7 +189,7 @@
     + What is the framework for ethical handling of data and decision making?
   - Ehical data handling principles
     + How an organization approaches challenges presented by data
-  - Complicance framework
+  - Compliance framework
     + What factors drive organiztional obligation?
   - Risk assesment
     + What are the likelihoon and the implicaitons of specific problems arising within the organization?
@@ -218,10 +218,12 @@
 
 
 ## 3.6 Data Ethics and Governance
+
 + Data Ethics and Governance together must keep up-to-date on legal changes, and reduce the risks of ethical impropriety by ensuring employees are aware of their obligations.
-+ Data governance must set standards and policies for and provide oversight of dat ahandling practices.
++ Data governance must set standards and policies for and provide oversight of data handling practices.
 + Employees must expect fair handling, prtecton from reporting possible breaches, and non-interference in their personal lives.
-+ Data
++ Data governace has a particular oversight requirement to review plans and decisions proposed by Business Intellegence, anylyticsm and Data Science studies.
+
 
 
 # Discussion Topic: Bias in Data Management
