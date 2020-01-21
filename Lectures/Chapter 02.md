@@ -56,7 +56,7 @@
   - create better relationships between the organization and its stakeholders,
   - reduce the risk that data for which the organization is responsible will be misused by employees, customers, or partners,
   - secure data from criminals(Chapter 7)
-  - adapt to the influence of  different modles of data ownership, and the emerging roles of Chief Data Officer, Chief Risk Officer, Chierf Privacy Officer, and Chief Analytics Officer.
+  - adapt to the influence of  different  of data ownership, and the emerging roles of Chief Data Officer, Chief Risk Officer, Chierf Privacy Officer, and Chief Analytics Officer.
   
   
 
