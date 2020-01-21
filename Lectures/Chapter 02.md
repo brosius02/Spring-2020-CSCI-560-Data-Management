@@ -74,7 +74,7 @@
 + **Principle 4**: Respect for Law and Public Interest (added by The United States epartment of Home Security's **Menlo Report**)
 
 ### Privacy - EDPS(European Data Protection Supervisor)
-+ Future-oriented regulation of data processing adn respect for the rights to privacy and to data protection
++ Future-oriented regulation of data processing and respect for the rights to privacy and to data protection
 + Accountable controllers who determine personal information processing
 + Privacy conscious engineering and design of data processing products and services
 + Empowered individuals
@@ -114,7 +114,8 @@
 + Ownership of data
 + The rights to be forgotten
 + Identity
-+ Freedom of sppech online
+  - Having the right to have one indentiy and a coorect identity, and to opt for a private identity.
++ Freedom of speech online
 
 ## 3.4 Risks of Unethical Data Handling Practices
 + Data can be misused by
