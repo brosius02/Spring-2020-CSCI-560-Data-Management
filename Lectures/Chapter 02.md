@@ -22,13 +22,14 @@
   - Ethical data handling helps organizations get value from data in long-term
   - Unethical data handling can result in the loss of reputation and customers, and it is illegal in some cases.
 ## Core concepts of ethical data handling
-  - Imapact on people
+  - Impact on people
   - Potential for misuse
   - Economic value of data
     + Ethics of data owenership shoud determine how that data value can be accessed and by whom
 ## Laws and regulatory requirements vs. Ethics
-
++ There are both legal and ethical reasons to protect data and ensure it is not misused.
 ## protect data vs. manage data quality
++ There is an ethical imperative not only to protect data, but also to manage its quality.
   - People making decisions, as well as those impacted by decisons, expect data to be complete and accurate.
   - low quality data
     + data that mispresent, is misused, or is misunderstood.
