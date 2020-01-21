@@ -160,7 +160,7 @@
   - **formal Organizatinal Change Management(OCM) process** (see Chapter 17)
 
 ### 3.5.1 Review Current State Data Handling Practices
-+ purpos  
++ purpose  
   - to understand the degree they are directly and explicitly connected to ethical and compliance drivers
 + activity
   - identify how well employees understand the ethical implications of existing practices in building and perserving the trust of customers, partners, and other stakeholders.
@@ -168,12 +168,56 @@
   - document ethical principles that underlie the organization's collection, use, and oversight of data, throughout the data lifecycle, including data sharing activities.
 
 
-### 3.5.2 Identify Priciples, Practices, and Risk Factors
+### 3.5.2 Identify Principles, Practices, and Risk Factors
++ Formalizing practices is to reduce the risk.
++ Being aware of principes is to imporve priactices.
++ **Principles** should be aligned with risks and practices, and supported by controls
++ Here is one example:
+  - guiding principles: People have a right to privacy with respect to information about their health. Therefore, the personal health data of patients should not be accessed except by people who are authorized to access it as part of caring for patients.
+  - risk: If there is wide access to the personal health data of patients, then information about individuals could become public knowledge, thereby jeopardizing their right to privacy.
+  - practice: Only nurses and doctors will be allowed to access the personal health data of patients and only for purposes of providng care.
+  - control: There will be an annual review of all users of the systems that contain personal health information of patients to ensure that only those people who need to have access do have access.
 
-### 3.5.3 Create an Ethical Data Handling Srategy and Roadmap
+### 3.5.3 Create an Ethical Data Handling Strategy and Roadmap
++ purpose:
+  - formalize a strategy to imporve data handling practices.
++ The strategy must express both ethical principles and expected behavior/practices.
+  - Values statement
+    + What the organization believes in?
+    + What is the framework for ethical handling of data and decision making?
+  - Ehical data handling principles
+    + How an organization approaches challenges presented by data
+  - Complicance framework
+    + What factors drive organiztional obligation?
+  - Risk assesment
+    + What are the likelihoon and the implicaitons of specific problems arising within the organization?
+  - Training communication
+    + Review of the code of ethics
+  - Roadmap
+    + a timeline with activities that can be approved by management.
+  - Approach to auditing and monitoring
+    + monitor specific activities to ensure that they are being executed in compliance with ethical principles.
+
 
 ### 3.5.4 Adopt a Socially Responsible Ethical Risk Model
++ **Social responsibility**: not to do harm with the data
++ A **risk model**: 
+  - determines whether to execute the project.
+  - influences how to execute the project.
++ Example: **Ethical Risk Model for Sampling Projects**
+
+  - Arrow 1: How they select their populations for study
+  - Arrow 2: How data will be captured
+  - Arrow 3: What activities analytics will focus on
+  - Arrow 4: How the results will be made accessible
+
+
+![figure 13](https://doc.difi.no/nasjonal-arkitektur/kunnskap_bok-navigating-the-labyrinth/media/ethical-risk-model.png)
+
 
 ## 3.6 Data Ethics and Governance
-
++ Data Ethics and Governance together must keep up-to-date on legal changes, and reduce the risks of ethical impropriety by ensuring employees are aware of their obligations.
++ Data governance must set standards and policies for and provide oversight of dat ahandling practices.
++ Employees must expect fair handling, prtecton from reporting possible breaches, and non-interference in their personal lives.
++ Data
 
