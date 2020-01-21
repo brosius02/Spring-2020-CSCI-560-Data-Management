@@ -165,7 +165,7 @@
 + purpose  
   - to understand the degree they are directly and explicitly connected to ethical and compliance drivers
 + activity
-  - identify how well employees understand the ethical implications of existing practices in building and perserving the trust of customers, partners, and other stakeholders.
+  - identify how well employees understand the ethical implications of existing practices in building and preserving the trust of customers, partners, and other stakeholders.
 + deliverable
   - document ethical principles that underlie the organization's collection, use, and oversight of data, throughout the data lifecycle, including data sharing activities.
 
