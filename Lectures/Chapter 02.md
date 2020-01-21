@@ -7,7 +7,7 @@
 ## Definitions
 + Ethics
   - are principles of behavior based on ideas of right and wrong.
-+ Ethic principles
++ Ethical principles
   - fairness
   - respect
   - responsibility
