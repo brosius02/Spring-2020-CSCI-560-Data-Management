@@ -114,7 +114,7 @@
 + Ownership of data
 + The rights to be forgotten
 + Identity
-  - Having the right to have one indentiy and a coorect identity, and to opt for a private identity.
+  - Having the right to have one identiy and a coorect identity, and to opt for a private identity.
 + Freedom of speech online
 
 ## 3.4 Risks of Unethical Data Handling Practices
