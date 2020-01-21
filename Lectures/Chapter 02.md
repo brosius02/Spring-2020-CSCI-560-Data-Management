@@ -223,3 +223,13 @@
 + Employees must expect fair handling, prtecton from reporting possible breaches, and non-interference in their personal lives.
 + Data
 
+
+# Discussion Topic
+## [Bias in Data Management](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Management/blob/master/Resources/ch02.pdf)
+## Here is a paper "Bias in Research", please discuss with your group members on bias in data management.
++ The definition of bias
++ Bias in data collection
++ Bias in data analysis
++ Bias in data interpretation
++ Publication bias
+## You can extend "research" to any "product" (e.g. a cell phone APP, supply chain management...)
