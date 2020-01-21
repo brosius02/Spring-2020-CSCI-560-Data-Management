@@ -87,7 +87,7 @@
 + General Data Protection Regulation of the EU (GDPR, 2016): 
   - rights to acess, rectification of inaccurate data, portablity
   - rights to object to processing of personal data that may cause damange or distress, and erasure
-  - consent that must be affirmative action that is freely gien, specific, informed, and unambiguous.
+  - consent that must be affirmative action that is freely gvien, specific, informed, and unambiguous.
 
 ![GDPR](https://40uu5c99f3a2ja7s7miveqgqu-wpengine.netdna-ssl.com/wp-content/uploads/2018/01/The-7-GDPR-personal-data-processing-principles-view-with-accountability-of-the-controller-for-the-6-principles-added-source-and-courtesy-ServeIT.gif)
 
