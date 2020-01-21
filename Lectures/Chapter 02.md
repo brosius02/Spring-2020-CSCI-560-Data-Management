@@ -71,7 +71,7 @@
   - maximize benefit
 + **Principle 3**:Justice
   - fair and equitable treatment of people 
-+ **Principle 4**: Respect for Law and Public Interest (added by The United States epartment of Home Security's **Menlo Report**)
++ **Principle 4**: Respect for Law and Public Interest (added by The United States department of Home Security's **Menlo Report**)
 
 ### Privacy - EDPS(European Data Protection Supervisor)
 + Future-oriented regulation of data processing and respect for the rights to privacy and to data protection
