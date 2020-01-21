@@ -224,9 +224,8 @@
 + Data
 
 
-# Discussion Topic
-## [Bias in Data Management](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Management/blob/master/Resources/ch02.pdf)
-## Here is a paper "Bias in Research", please discuss with your group members on bias in data management.
+# Discussion Topic: Bias in Data Management
+## Here is a paper [Bias in Research](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Management/blob/master/Resources/ch02.pdf), please discuss with your group members on bias in data management.
 + The definition of bias
 + Bias in data collection
 + Bias in data analysis
