@@ -192,7 +192,7 @@
   - Values statement
     + What the organization believes in?
     + What is the framework for ethical handling of data and decision making?
-  - Ehical data handling principles
+  - Ethical data handling principles
     + How an organization approaches challenges presented by data
   - Compliance framework
     + What factors drive organiztional obligation?
