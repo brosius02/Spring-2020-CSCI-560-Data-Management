@@ -34,3 +34,89 @@
   - Data asset valuation
     + Setting standards and processes to consistently define the business value of data assests
     
+    
+    ![figure14](../Resources/figure14.png)
+    
+    
+  ## 1.1 Business Drivers
+  + Regulatory compliance 
+    - the most common driver.
+    - responding to evoving legislation requires strict data governance
+  + advanced analytics and Data Science
+  + via an information management progam driven by other business need
+    - e.g.: A company needs better customer data, it chooses to develop Customer Master Data Management(MDM), and then it realizes successful MDM requires data governance.
+  
+  
+  ## 1.2 Goals and Principles
+  
+  ## 1.3 Enssential Concepts
+  
+  ### 1.3.1 Data-centric Organization
+  
+  ### 1.3.2 Data Governance Organization
+  
+  ### 1.3.3 Data Governane Operating Model Types
+  
+  ### 1.3.4 Data Stewardship
+  
+  ### 1.3.5  Types of Data Stewards
+  
+  ### 1.3.6 Data Polices
+  
+  ### 1.3.7 Data Asset Valuation
+  
+  # 2 Activities
+  
+  ## 2.1 Define Data Governance for the Organization
+  
+  ## 2.2 Perform Readiness Assesment
+  
+  ## 2.3 Perform  Discovery and Business Alignment
+  
+  ## 2.4 Develop Organizational Touch Points
+  
+  ## 2.5 Deveop Data Governace Strategies
+  
+  ## 2.6 Define the DG Operating Framework
+  
+  ## 2.7 Develop Goals, Principles, and Polices
+  
+  ## 2.8 Underwrite Data Management Projects
+  
+  ## 2.9 Engage Change Management
+  
+  ## 2.10 Engage in Issue Management
+  
+  ## 2.11 Assess Regulatory Compliance Requirements
+  
+  ## 2.12 Implement Data Governane
+  
+  ## 2.13 Sponsor Data Standards and Procedures
+  
+  ## 2.14 Develop a Business Glossary
+  
+  ## 2.15 Coordinate with Architecture Groups
+  
+  ## 2.16 Sponsor Data Asset Valuation
+  
+  ## 2.17 Embed Data Governance
+  
+  # 3 Tools and Techniques
+  
+  ## 3.1 Online Presence / Website
+  
+  ## 3.2 Business Glossary
+  
+  ## 3.3 Workflow Tools
+  
+  ## 3.4 Document Management Tools
+  
+  ## 3.5 Data Governance Scorecard
+  
+  # 4 Implementation Guide
+  ## 4.1 Organizational and Culture
+  
+  ## 4.2 Adjustment and Communication
+  
+  # 5 Metrics
+ 
