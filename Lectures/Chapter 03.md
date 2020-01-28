@@ -218,7 +218,7 @@
     - Impact of regulation
   + An example
   
-  ![figure19](../Resouces/figure19.png)
+  ![figure19](../Resources/figure19.png)
   
   ## 2.7 Develop Goals, Principles, and Polices
   
