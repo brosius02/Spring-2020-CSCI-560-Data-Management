@@ -222,15 +222,56 @@
   
   ## 2.7 Develop Goals, Principles, and Polices
   
+  + Goals, principles, and policies are 
+    - drafted by data management professionals, business policy staff, or a combination
+    - refined by Data Stewards and management review
+    - final reviewd, revised, and adopted by the Data Governance Council(DGC)
+  + Policy examples
+    - The Data Governance Office(DGO) will certify data for use by the organization.
+    - Business owners will be approved by the DGO.
+    - Business owners will designate Data Stewards from their business capability areas. The Data Stewards will have day-to-day resonsibility for coordinating data governance activities.
+    - Whenever possible, standardized reporting and/or dashboards/scorecards will be made available to server the majority of business needs.
+    - Certified Users will be granted access to Certified Data for ad-hoc/non-standard reporting.
+    - All certified data will be evaluated on a regular basis to assess its accuracy, completeness, consistency, accessibility, uniqueness, compliance, and efficiency.
+  
   ## 2.8 Underwrite Data Management Projects
   
+  
   ## 2.9 Engage Change Management
+  + changes: behavioral changes required to sustain DG
+  + Organizations should create a team responsible for
+    - Planning
+    - Training
+    - Infulencing systems development
+      + DG in SDLC
+    - Policy implementation
+    - Communication
   
   ## 2.10 Engage in Issue Management
+  + Issue management is the process for identifying, quantifying, prioritizing, and resolving data governance-related issures, including:
+    - Authority
+    - Change management escalations
+    - Compliance
+    - Conflicts
+    - Conformance
+    - Contracts
+    - Data security and identity
+    - Data quality
+    
+    ![figure 20](https://image.slidesharecdn.com/aug-2017damaga-petervennel-170811024100/95/aug-2017-damagapetervennel-12-638.jpg?cb=1502419331)
+    
+  
   
   ## 2.11 Assess Regulatory Compliance Requirements
-  
-  ## 2.12 Implement Data Governane
+  + Several global regulations
+    - Accouting standards
+    - BCBS 239(Basel Committee on Banking Supervision) and Basel II
+    - CPG 235
+    - PCI-DSS
+    - Solvency II
+    - Privacy Laws
+  ## 2.12 Implement Data Governance
+  + better to create and implementation roadmap that illustrates the timeframes for and relationship between activities.
   
   ## 2.13 Sponsor Data Standards and Procedures
   
