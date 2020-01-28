@@ -38,8 +38,7 @@
     
     ![figure14](../Resources/figure14.png)
     
-    
-  ## 1.1 Business Drivers
+## 1.1 Business Drivers
  + Reducing Risk
   - General risk management
     + risks to finances or reputation, including response to legal and regulatory issues.
