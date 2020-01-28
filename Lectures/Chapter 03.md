@@ -39,40 +39,40 @@
     ![figure14](../Resources/figure14.png)
     
 ## 1.1 Business Drivers
- + Reducing Risk
-  - General risk management
-    + risks to finances or reputation, including response to legal and regulatory issues.
-  - Data security
-  - Privacy
- + Improving Processes
-  - Regulatory compliance
-  - Data quality improvement
-  - Metadata management
-  - Efficieny in development projects
-  - Vendor management
-    + control of contracts dealing with data
+  + Reducing Risk
+    - General risk management
+      + risks to finances or reputation, including response to legal and regulatory issues.
+    - Data security
+    - Privacy
+  + Improving Processes
+    - Regulatory compliance
+    - Data quality improvement
+    - Metadata management
+    - Efficieny in development projects
+    - Vendor management
+      + control of contracts dealing with data
   
-  ## 1.2 Goals and Principles
-  ### Goals
-  + The overall goal of DG is to enable an organization to manage data as an asset.
-  + To achieve it, a DG program must be
-    - Sustainable: DG necessirates changes in how data is managed and used.
-    - Embedded: DG activities need to be incorporated into development methods for softwares, use of data for analytics, mangement of Master Data, and risk management.
-    - Measured
-  ## Principles
-  + Leadership and strategy
-    + DG starts with leadership
-    + DG is guided by a data strategy(data strategy is driven by the enterprise business strategy)
-  + Business-driven
-  + Shared responsibility
-    - DG must govern IT decisions related to data
-  + Multi-layered
-    - local layer
-    - enterprise layer
-    - often in-between
-  + Framework-based
-    - establish an operating framework for coordination across functional areas
-  + Principle-based
+## 1.2 Goals and Principles
+### Goals
++ The overall goal of DG is to enable an organization to manage data as an asset.
++ To achieve it, a DG program must be
+  - Sustainable: DG necessirates changes in how data is managed and used.
+  - Embedded: DG activities need to be incorporated into development methods for softwares, use of data for analytics, mangement of Master Data, and risk management.
+  - Measured
+## Principles
++ Leadership and strategy
+  - DG starts with leadership
+  - DG is guided by a data strategy(data strategy is driven by the enterprise business strategy)
++ Business-driven
++ Shared responsibility
+  - DG must govern IT decisions related to data
++ Multi-layered
+  - local layer
+  - enterprise layer
+  - often in-between
++ Framework-based
+  - establish an operating framework for coordination across functional areas
++ Principle-based
   
   ## 1.3 Enssential Concepts
   + DG ensures data is properly used without directly executing data management.
