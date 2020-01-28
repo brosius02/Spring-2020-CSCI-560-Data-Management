@@ -48,7 +48,7 @@
     - Regulatory compliance
     - Data quality improvement
     - Metadata management
-    - Efficieny in development projects
+    - Efficiency in development projects
     - Vendor management
       + control of contracts dealing with data
   
@@ -64,8 +64,10 @@
   - DG starts with leadership
   - DG is guided by a data strategy(data strategy is driven by the enterprise business strategy)
 + Business-driven
-+ Shared responsibility
   - DG must govern IT decisions related to data
++ Shared responsibility
+  - DG is  a shared reponsibility between data stewards and technical data management professionals.
+  
 + Multi-layered
   - local layer
   - enterprise layer
@@ -103,7 +105,7 @@
   |Data Governance Steering Committee|The primary and highest authority organization for data governance in an organization, responsible for oversight, support, and funding of data governance activities. Consists of a cross-functional group of senior executives. <br> Typically releases funding for data governance and data governance-sponsored activites as recommended by the DGC and CDO. This committee may in turn have oversight from higher-level funding or initiative-based steering committees.|
   |Data Governance Council(DGC)|Manages data governance initiatives, issues, and escalations. Consists of executive according to the operating model used.|
   |Data Governance Office(DGO)|Ongoing focus on enterprise-level data definitions and data management standards across all DAMA-DMBOK Knowledge Areas. Consists of coordinating roles that are labelled as data stewards or custodians, and data owners.|
-  |Data Stewardship Teams| Communities of interess focused on one or more specific subject-areas or projects, collaborating or consulting with project teams on data definitions and data management standards related to the focus. Consists of business and technical data stewards and data analysts.|
+  |Data Stewardship Teams| Communities of interest focused on one or more specific subject-areas or projects, collaborating or consulting with project teams on data definitions and data management standards related to the focus. Consists of business and technical data stewards and data analysts.|
   |Local Data Governace Committee|Large organizations may have divisional or departmental data governance councils working under the auspices of an Enterprise DGC. Smaller organizations should try to avoid such complexity.|
   
   
@@ -119,7 +121,7 @@
   + Definition
     - is the most common label to describe accountability and responsibility for data and processes that ensure effective control and use of data assets.
   + Activities
-    - Creating and managing core Metata
+    - Creating and managing core Metadata
     - Documenting rules and standards
     - Managing data quality issues
     - Executing operational data governance activites
@@ -194,7 +196,7 @@
     
     ![](../Resources/figure18.png)
   
-  ## 2.5 Deveop Data Governace Strategies
+  ## 2.5 Develop Data Governace Strategies
   + A data governance startegy defines the scope and approach to governance efforts.
   + related to business strategy, data management strategy, and IT strategy.
   + should be implemented iteratively as the pieces are developed and approved.
@@ -270,7 +272,7 @@
     - Solvency II
     - Privacy Laws
   ## 2.12 Implement Data Governance
-  + better to create and implementation roadmap that illustrates the timeframes for and relationship between activities.
+  + better to create an implementation roadmap that illustrates the timeframes for and relationship between activities.
   
   ## 2.13 Sponsor Data Standards and Procedures
   ### Data Standards
@@ -285,8 +287,7 @@
   
   ## 2.15 Coordinate with Architecture Groups
   + The Data Model shoud be developed and maintained jonitly by Data Architects and Data Stewards working together in subject area teams.
-  + Data Strategt: doing things right
-  + Data Architecture: doing the right things
+
   
   ## 2.16 Sponsor Data Asset Valuation
   
