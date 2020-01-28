@@ -274,10 +274,20 @@
   + better to create and implementation roadmap that illustrates the timeframes for and relationship between activities.
   
   ## 2.13 Sponsor Data Standards and Procedures
+  ### Data Standards
+  + An organization makes a decision once and codifies it in a set of assertions(the standard).
+  + DG standards should be mandatory, effectively communicated, monitored, and periodically reviewed and updated.
+  ### Data procedures
+  + Data manamgement procedures are the documented methods, techniques, and steps followed to accomplish specific activities that produce certain outcomes and supporting artifacts.
+   
   
   ## 2.14 Develop a Business Glossary
+  + Glossary is a means of sharing a vocabulary within the organization to reduce ambiguity and improve commnication.
   
   ## 2.15 Coordinate with Architecture Groups
+  + The Data Model shoud be developed and maintained jonitly by Data Architects and Data Stewards working together in subject area teams.
+  + Data Strategt: doing things right
+  + Data Architecture: doing the right things
   
   ## 2.16 Sponsor Data Asset Valuation
   
@@ -286,19 +296,58 @@
   # 3 Tools and Techniques
   
   ## 3.1 Online Presence / Website
+  + The DG program should have an online presence, including
+    - The DG strategy and program charter, including vision, benefits, goals, principles, and implementation roadmap.
+    - Data policies and data standards
+    - Decriptions of data stewardship roles and responsibilities
+    - Program news annoucement
+    - Links to forms for a Data Governance Commnunity of Interst
+    - Links to executive messages regarding data governance topics
+    - Reports on Data Quality measurements
+    - Procedures for issue identification and escalation
+    - Links to request services or capture issues
+    - Document, presentations, and training programs with links to related online resources
+    - Data Governance program contract information
+    
   
   ## 3.2 Business Glossary
+  +  a core DG tool.
   
   ## 3.3 Workflow Tools
+ 
   
   ## 3.4 Document Management Tools
   
   ## 3.5 Data Governance Scorecard
+  + The collection of metrics to track data governance activities and compliacne with policies
   
   # 4 Implementation Guide
-  ## 4.1 Organizational and Culture
+  ## 4.1 Organization and Culture
+  + DG programs require a cultural shift in organizational thinking and behavior about data, as well as an ongoing program of change management to support the new thinking, behaviors, policies, and processes to achieve the desired future state of behavior around data.
+  + Ignoring culture will diminish chances for success.
+  + The target of organizational change is sustainability (a quality of a process that measures how easy it it for the process to continue to add value)
+  
   
   ## 4.2 Adjustment and Communication
+  + The DG team will need to be flexible and adjust its approach as conditions shift.
   
   # 5 Metrics
+  + Value
+    - Contributions to business objecives
+    - Reduction of risk
+    - Improved efficiency in operations
+  + Effectiveness
+    - Achievement of goals and objectives
+    -  Extent stewards are using the relevant tools
+    - Effectiveness of communication
+    - Effectiveness of education/training
+    - Speed of change adoption
+  + Sustainability
+    - Performance of policies and processes
+    - Conformance to standards and prcedures.
+    
+    
+  # Group Discussion
+  
+  [The Need for Data Governance: A Case Study](../Resources/ch03.pdf)
  
