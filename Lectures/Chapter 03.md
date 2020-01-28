@@ -170,16 +170,55 @@
   # 2 Activities
   
   ## 2.1 Define Data Governance for the Organization
+  + What is being governed?
+  + Who is being governed?
+  + Who is governing?
   
   ## 2.2 Perform Readiness Assesment
+  Typical assessments include:
+  + Data management maturity  
+    - how well the organization manages data and uses data to its advantages
+    - objective criteria
+  + Capacity to change
+  + Collaborative readiness
+  + Business alignment
+    - how well the organization uses of data with business strategy
+  
   
   ## 2.3 Perform  Discovery and Business Alignment
+  + Discovery activity will identify and assess the effectiveness of existing policies and guidelines
   
   ## 2.4 Develop Organizational Touch Points
+  + Chief Data Officer (CDO) organizational Touch Points
+    - supports alignment and cohesiveness of an enterprise data governance and data management approach in areas outside the direct authority of the CDO.
+    - provides a vision of how DG will be perceived by the organization.
+    
+    ![](../Resources/figure18.png)
   
   ## 2.5 Deveop Data Governace Strategies
+  + A data governance startegy defines the scope and approach to governance efforts.
+  + related to business strategy, data management strategy, and IT strategy.
+  + should be implemented iteratively as the pieces are developed and approved.
+  + deliverables
+    - Chater
+      + identifies the business drivers, vision, mission, and principles for DG
+    - Operating framework and accountabilities
+      + defines structure and resonsibilities for DG activiteis.
+    - Implementation roadmap
+      + timeframe
+    - Plan for operaional success
   
   ## 2.6 Define the DG Operating Framework
+  + Considering these areas when constructing an DG operating framework
+    - Value of data to the organization
+    - Business model
+      + Decentralized vs centralized
+      + local vs international
+    - Cultural factors
+    - Impact of regulation
+  + An example
+  
+  ![figure19](../Resouces/figure19.png)
   
   ## 2.7 Develop Goals, Principles, and Polices
   
