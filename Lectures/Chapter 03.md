@@ -111,13 +111,61 @@
    
   ### 1.3.3 Data Governane Operating Model Types
   
+   ![figure17-1](../Resources/figure17-1.png)
+   ![figure17-2](../Resources/figure17-2.png) 
+   ![figure17-3](../Resources/figure17-3.png)
+   
+   
   ### 1.3.4 Data Stewardship
-  
+  + Definition
+    - is the most common label to describe accountability and responsibility for data and processes that ensure effective control and use of data assets.
+  + Activities
+    - Creating and managing core Metata
+    - Documenting rules and standards
+    - Managing data quality issues
+    - Executing operational data governance activites
   ### 1.3.5  Types of Data Stewards
+  Data stewards manage data assets on behalf of others and in the best intersts of the organization.
+  + Chief Data Stewards
+  + Executive Data Stewards
+  + Enterprise Data Stewards
+  + Business Data Stewards
+  + A Data Owner
+  + Technical Data Stewards
+  + Coordinating Data Stewards
+  
+  **The best Data Stewards are often found, not made.**
   
   ### 1.3.6 Data Polices
+  + describe what to do and what not to do.
+  + There should be relatively few policies
+  + They should be stated briefly and directly.
   
   ### 1.3.7 Data Asset Valuation
+  + Lifecycle benefits and cost
+  + Replacement cost
+  + Market value
+  + Identified opportunities
+  + Selling data
+  + Risk cost
+  
+  #### Principles for Data Asset Accouting
+  
+  |Principle|Description|
+  |---|---|
+  |Accoutability Principle|An organization must identify individuals who are ultimately accountable for data and content of all types|
+  |Asset Principle|Data and content of all types are assets and have characteristics of other assets. They should be managed, secured, and accounted for as other material or financial assets|
+  |Audit Principle|The accuracy of data and content is subject to periodic audit by an independent body|
+  |Due Diligence Priciple|If a risk is known, it must be reported. If a risk is possible, it must be confirmed. Data risks include risks related to poor data management practices.|
+  |Going Concern Principle|Data and content are critical to successful, ongoing business operations and management|
+  |Level of Valuation Principle|Value the data as an asset at a level that makes the most sense, or is the easiest to measure.|
+  |Liability Principle|There is a financial liability connected to data or content based on regulatory and ethical misuse or mismanagement|
+  |Quality Principle|The meaning, accuracy, and lifecycle of data and content can affect the financial status of the organization.|
+  |Risk Principle|There is risk associated with data and content. This risk must be formally recognized, either as a liability or through incurring costs to manage and reduce the inherent risk.|
+  |Value Principle|There is value in data and content, based on the ways there are used to meet an organization's objectives, their intrinsic marketability, and/or their contribution to the organization's goodwill(balance sheet) valuation. The value of informatin reflects its contribution to the organization offset by the cost of maintenance and movement.|
+  
+  
+  
   
   # 2 Activities
   
