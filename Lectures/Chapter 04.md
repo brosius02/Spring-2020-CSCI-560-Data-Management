@@ -85,9 +85,61 @@
     + When: Intervals, events, cycles, and schedules
     + Why: Goals, strategies, and means
   - rows: **reification transformations**
+    + executive perspective(business context): List of business elements defining scope in identification models
+    + business management perspective(business concepts): Clarification of the relationships between business concepts defined by Executive Leaders as Owners in definition models
+    + architect perspective(business ligic): System logical models detailing system requirements and unconstrained design represented by Architects as Designers in representation models.
+    + engineer perspective(business physics): Physical models optimizing the design for implementation for specific use under the constraints of specific technology, people, costs, and timeframes specified by Engineers as Builders in specification models.
+    + technician perspective(component assemblies): A technology-specific, out-of-context view of how components are assembled and operate configured by Technicians as Implementers in configuration models.
+    + user perspective(operation classes): Actual functioning instances used by Workers as Participants. There are no models in this perspective.
   - each cell represents a unique type of design artifact.
 ![22](../Resources/figure22.png)
 
+
+### 1.3.3 Enterprise Data Architecture
++ Enterprise Data Model(EDM)
++ Data Flow Design
+
+#### Enterprise Data Model(EDM)
++  is composed of data models from different perspectives and at different levels of details
++ describe data entities, data attributes, and their realationships across the enterprise.
++ includes both universal(conceptual and logical models) and application- or project-specific data models
++ mostly is built increamentally and iteratively.
+
+![23](../Resources/figure23.png)
+
++ vertical: models in each level maps to models in other levels
++ horizontal: entities and relationships may appear in multiple models in the same level.
+
+
+![24](../Resources/figure24.jpg)
+
++ Each Subject Area Diagram contains a conceptual data model with a set of entities.
++ Relationships may cross Subject Area borders
++ Each entity in an EDM should reside in only one Subject Area, but can be related to entities in any other Subject Area.
+
++ Subject Area discriminator principles:
+  - **normalization rules**
+  - dividng Subject Area from system portfolios (funding)
+  - forming Subject Area from data governance structure and data ownership(organizational)
+  - using top-level processes (based on the business value chairs)
+  - using business capabilities(enterprise architecture-based)
+ 
+#### Data Flow Design
++ Data flows map and document relationships between data and
+  - Applications within a business process
+  - Data stores or databases in an enviroment
+  - Network segments (useful for security mapping)
+  - Business roles, depicting which roles have responsibility for creating, updating, using, and deleting data (CRUD:create, read, update, and delete)
+  - Locations where local difference occur
+
++ Data flows can be represented by two-dimensional matrices
+![25](../Resources/figure25.png)
+
++ Data flows can also be represented by data flow diagram.
+  - data flow between systems
+
+
+![26](../Resources/figure26.png)
 
 
 # 2. Activities
