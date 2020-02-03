@@ -75,8 +75,21 @@
 ### 1.3.2 Enterprise Architecture Frameworks
 + is "architecture of architecture"
 + Zachman framework for enterprise architecture
-
+  - is an ontology
+  - does not define how to create a model, simply shows what model should exist
+  - columns: **communication interrogatives** 
+    + What: entities used to build the architecture
+    + How: activities performed
+    + Where: business location and technology location
+    + Who: Roles and organizations
+    + When: Intervals, events, cycles, and schedules
+    + Why: Goals, strategies, and means
+  - rows: **reification transformations**
+  - each cell represents a unique type of design artifact.
 ![22](../Resources/figure22.png)
+
+
+
 # 2. Activities
 ## 2.1 Establish Data Architecture Practices
 ## 2.2 Integrate with Enterprise Architecture
