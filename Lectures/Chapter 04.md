@@ -46,7 +46,7 @@
 
 ## 1.2 Data Architecture Outcomes and Practices
 ### Outcomes
-+ Data storage and processing requrements
++ Data storage and processing requirements
 + Designs of structures and plans that meet the current and long-term data requirements of the enterprise
 ### Specifications
 + Define the current state of data in the organization
