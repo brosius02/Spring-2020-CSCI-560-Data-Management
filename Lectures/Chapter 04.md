@@ -143,9 +143,69 @@
 
 
 # 2. Activities
++ Quality-oriented
+  - focus on improving execution within business and IT development cycles.
++ Innovation-oriented
+  - focus on tranforming business and IT to address new expecatations and opportunities.
 ## 2.1 Establish Data Architecture Practices
-## 2.2 Integrate with Enterprise Architecture
++ An Data Architecture practice generally includes the following work streams:
+  - Strategy
+    + select frameworks
+    + state approaches
+    + develop roadmap
+  - Acceptance and culture
+    + inform and motivate changes in behavior
+  - Organization
+    + Organize Data Architecture work by assigning accoutabilities and responsibilities
+  - Working methods
+    + Define best practice and perform Data Architecture work within developement projects, in coordination with Enterprise Architecture
+  - Results
+    + Produce Data Architecture artifacts within an overall raodmap
++ Data Architecture infuences the scope boudaries of projects and system release:
+  - Defining project data requirements
+  - Reviewing project data designs
+  - Determing data lineage impact
+  - Data replication control
+  - Enforcing Data Architecture standards
+  - Guide data technolog and renewal decisions
 
+### 2.1.1 Evaluate Existing Data Architecture Specifications
+
+### 2.1.2 Develop a roadmap
++ A roadmap  manages data dependencies and make forward-looking decisions.
++ A roadmap helps an organization see trade-offs and formulate a pragmatic plan, aligned with business needs and opportunities, external requirements, and available resources.
++ A roadmap describes the architecture's 3-5 year development path.
++ A roadmap describes how the target will become reality, together with the business requirements, consideration of actual conditions, and the technical assessments.
+
+![27](../Resources/figure27.png)
+
++ A business-data-driven roadmap starts with the business capabilities that are most independent.
++ A business-data-driven roadmap ends with the business capabilities that are most dependent.
++ In the example above, the roadmap would ideally advise starting at Product Management and Customer Management capabilities and then resolve each dependency in steps from top to bottom.
+
+### 2.1.3 Manage Enterprise Requirements within Projects
++ Data Architecture should determine
+  - whether enterprise-wide entities represented in the specificaiton conform to agreed-uopn standards
+  - what entities in the requirements specification should be included in the overall Enterprise Data Architecture
+  - whether entities and definitions in this specification need to be generalized or improved upon to handle future trends
+  - whether new data delivery architecturees are indicated or whether to pointthe developers in the direction of reuse
+
++ **Data Architecture project-related activities include**
+  - Define scope
+  - Understand business requirement
+  - Design
+  - Implement
+    + When buying
+    + When reusing data
+    + When building
++ Methodologies of the process of building architetural activities into projects
+  - Waterfall methods
+  - Incremental methods
+  - Agile, iterative methods
+## 2.2 Integrate with Enterprise Architecture
++ Funded projects generally drive architectural priorities.'
++ Data Architecture may influence the scope of projects.
++ It is best, therefore, to integrate Data Architecture with Enterprise Architecture.
 # 3. Tools
 ## 3.1 Data Modeling Tools
 ## 3.2 Asset Management Tools
@@ -153,11 +213,62 @@
 
 # 4. Techniques
 ## 4.1 Lifecycle Projections
++ Current
++ Deployment period
++ Strategic period
++ Retirement
++ Preferred
++ Containment
++ Emerging
++ Reviewed
++ More about managing data technoligies in Chapter 6
 ## 4.2 Diagramming Clarity
++ a clear and consistent legend
++ a match between all diagram objects and the legend
++ a clear and consistent line direction
++ a consistent line cross display method
++ consistent object attributes
+  - sizes, colors, line thickness, etc.
++ linear symmetry
 
 # 5. Implementation Guideline
+A Data Architecture implementation should include at least two of the followings as they benefit from being launched simultaneously, or at least as paralle activities.
++ Organizing the Enterprise Data Architecture teams and forus
++ Producing the initial versions of Data Architecture artifacts, such as enterprise data model, enterprise-wide data flow and road maps.
++ Forming adn establishing a data architectural way of working in development projects
++ Creating awareness throughout the organization of the value of Data Architecture efforts
 ## 5.1 Readiness Assessment / Risk Assessment
+Architecture initiation projects expose more risks, such as:
++ Lack of management support
++ No proven record of accomplishment
++ Apprehensive sponsor
++ Counter-productive executive decisions
++ Culture shock
++ Inexperienced project leader
++ Dominance of a one-dimensional view
 ## 5.2 Organization and Cultrual Change
+The ability of an organizatin to adopt Data Architecture practices depends on 
++ Cultrural receptivity to architectural approach(developing an architecture-friendly culture)
++ Organizational recognition of data as a business asset, not just an IT concern
++ Organizational ability to let go of a local perspective and adopt an enterprise perspective on data
++ Organizational ability to integrate architectural deliverables into project methodoglogy
++ Level of acceptance of formal data governace
++ Ability to look holistially at the enterprise, rather than being focused solely on project delivery and IT solutioning
 
 # 6. Data Architecture Governance
+Data Architecture and Data Governance have to be well aligned. Data Architecture governace activities include:
++ Overseeing Projects
++ Managing architectural designs, lifecycle, and tools
++ Defining standards
++ Creating data-related artifacts
+
 ## 6.1 Metrics
++ Architecture standard compliance rate
++ Implementation trends
+  - Use/reuse/replace/retire measurements
+  - Project execution efficiency measurements
++ Business value measurements
+  - Business agility improvement
+  - Business quality
+  - Business operation quality
+  - Business environment improvements
