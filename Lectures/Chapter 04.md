@@ -141,7 +141,9 @@
 
 ![26](../Resources/figure26.png)
 
-
++ Note:
+  - CRM: Customer relationship management
+  - PDM: Product data management
 # 2. Activities
 + Quality-oriented
   - focus on improving execution within business and IT development cycles.
