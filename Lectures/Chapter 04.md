@@ -70,7 +70,7 @@
 |Purpose|To identify how an enterprise creates value for customers and other stakeholders|To describe how data should be organizaed and managed|To describe the structure and functionality of applications in an enterprise|To describe the physical technology needed to enable systems to function and deliver value|
 |Elements|Business models, processes, capabilities, services, events, strategies, vocabulary|Data models, data definitions, data mapping specifications, data flows, structured data APIs|Business systems, software packages, databases|Technical platforms, networks, security, integration tools|
 |Dependencies|Establish requirements for the other domains|Manage data created and required by business architecture|Acts on specified data according to business requirements|Hosts and executes the application architecture|
-|Roles|Business architects and analysts, business data stewards|Data Architect and modelers, data stewards|Applications architects|Infrastructure architects|
+|Roles|Business architects and analysts, business data stewards|Data Architects and modelers, data stewards|Applications architects|Infrastructure architects|
 
 ### 1.3.2 Enterprise Architecture Frameworks
 + is "architecture of architecture"
@@ -84,7 +84,7 @@
     + Who: Roles and organizations
     + When: Intervals, events, cycles, and schedules
     + Why: Goals, strategies, and means
-  - rows: **reification transformations**
+  - rows: **reification transformations**(What column for example)
     + executive perspective(business context): List of business elements defining scope in identification models
     + business management perspective(business concepts): Clarification of the relationships between business concepts defined by Executive Leaders as Owners in definition models
     + architect perspective(business ligic): System logical models detailing system requirements and unconstrained design represented by Architects as Designers in representation models.
