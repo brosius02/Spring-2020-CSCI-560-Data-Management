@@ -84,7 +84,7 @@
     + Who: Roles and organizations
     + When: Intervals, events, cycles, and schedules
     + Why: Goals, strategies, and means
-  - rows: **reification transformations**(What column for example)
+  - rows(planner, owner, designer, builder, implementer, and user): **reification transformations**(What column for example)
     + executive perspective(business context): List of business elements defining scope in identification models
     + business management perspective(business concepts): Clarification of the relationships between business concepts defined by Executive Leaders as Owners in definition models
     + architect perspective(business ligic): System logical models detailing system requirements and unconstrained design represented by Architects as Designers in representation models.
@@ -272,3 +272,12 @@ Data Architecture and Data Governance have to be well aligned. Data Architecture
   - Business quality
   - Business operation quality
   - Business environment improvements
+  
+  
+# Group Discussion
+[Data Analysis for Business Analysts: The Zachman Framework and Data Architecture](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Management/blob/master/Resources/ch04-1.pdf)
+
++ Note: the article above only decribes the "What" column in Zachman Framework, if you want to learn more, please read [this case-study paper](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Management/blob/master/Resources/ch04-2.pdf)
+
+
+# [Homework 4](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Management/blob/master/Homework/HW03.md)
