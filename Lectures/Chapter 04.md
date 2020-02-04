@@ -7,15 +7,15 @@
   - Art and science of building things
   - Results of the process of building
 + Architecture
-  - a description of current state of systems
-  - the components of a set of systems
-  - the disciplines of designing systems(architecuture practice)
+  - a description of **current state** of systems
+  - the **components** of a set of systems
+  - the **disciplines of designing systems(architecuture practice)**
     + different levels
     + different areas of focus
-  - the intentional design of a system or a set of systems(future state or proposes architeture)
+  - the intentional design of a system or a set of systems(**future state or proposes architeture**)
   - the artifacts that describe a system(architecture documentation)
     + describe existing state
-    + define data requrements
+    + define data requirements
     + guide data integration
     + control data asset
   - the team that does the design work (the Architects or the Architecture team)
