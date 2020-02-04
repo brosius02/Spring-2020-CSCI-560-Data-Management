@@ -13,7 +13,7 @@
     + different levels
     + different areas of focus
   - the intentional design of a system or a set of systems(**future state or proposes architeture**)
-  - the artifacts that describe a system(architecture documentation)
+  - the **artifacts** that describe a system(architecture documentation)
     + describe existing state
     + define data requirements
     + guide data integration
