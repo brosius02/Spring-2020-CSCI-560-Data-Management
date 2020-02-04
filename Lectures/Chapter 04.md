@@ -42,7 +42,7 @@
   - Translate business needs into data and system requirements so that processes consistently have the data they require
   - Manage complex data and information delivery throughout the enterprise
   - Facilitate alignment between Business and IT
-  - Act as agents for change， transformatin, and agility.
+  - Act as agents for change，transformation, and agility.
 
 ## 1.2 Data Architecture Outcomes and Practices
 ### Outcomes
