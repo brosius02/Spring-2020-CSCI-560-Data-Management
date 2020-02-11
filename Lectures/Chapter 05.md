@@ -244,14 +244,30 @@ A relationship captures
 
 
 #### 1.3.4.1 Relational 
++ [A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
+  - Data could most effectively be managed in terms of two-dimensional **relations**
+  - Objetvies
+    + having an exact expression of business data
+    + having one fact in one place(the removal of redundancy)
+  - It is ideal for the design of operational systems, which require entering information quicky and having it stored accurately.
+  - The most common form of notations is Information Engineering(IE).
+  
 
 
 
 #### 1.3.4.2 Dimensional 
++ Data is structed to optimize the query and analysis of large amount of data.
++ Dimensional data models capture business questions focused on a particular business process.
 
++ Example: Admission
 
+![40](../Resources/figure40.png)
 
++ Relational vs. Dimensional
+  - The relationship lines in Relational model captures **business rules**.
+  - The relationship lines in Dimensional model captures **navigation paths** needed to answer business questions.
 
++ [Tutorial](https://www.zentut.com/data-warehouse/what-is-data-warehouse/)
 
 # 2. Acitivities
 ## 2.1 Plan for Data Modeling
