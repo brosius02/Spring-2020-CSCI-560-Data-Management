@@ -34,7 +34,7 @@
 + Data modeling
   - the understanding of the organizational data
 + Data models
-  - a data model contains a set of symbols with text labels taht attempts visually to represent data requirements as comminicated to the data modeler.
+  - a data model contains a set of symbols with text labels that attempts visually to represent data requirements as comminicated to the data modeler.
 ### 1.3.2 Types of Data
 + Category informaton
   - customers classified by market categories or business sectors
