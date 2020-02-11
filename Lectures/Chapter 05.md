@@ -269,6 +269,11 @@ A relationship captures
 
 + [Tutorial](https://www.zentut.com/data-warehouse/what-is-data-warehouse/)
 
+
+#### 1.3.4.3 Object-Oriented(UML)
+#### 1.3.4.4  Fact-Based Modeling(FBM)
+#### 1.3.4.5 Time-Based
+#### 1.3.4.6 NoSQL
 # 2. Acitivities
 ## 2.1 Plan for Data Modeling
 ## 2.2 Build the Data Model
