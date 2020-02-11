@@ -267,8 +267,20 @@ A relationship captures
   - The relationship lines in Relational model captures **business rules**.
   - The relationship lines in Dimensional model captures **navigation paths** needed to answer business questions.
 
-+ [Tutorial](https://www.zentut.com/data-warehouse/what-is-data-warehouse/)
 
+
+
+# Group Discussion 02/11/2020
+## 1. Define a Relational Data Model based on the following entities and batabase state.
+
+![40](../Resources/ch5-1.png)
+
+![40](../Resources/ch5-1.png)
+
+
+## 2. Discuss the concepts and process of Dimensional Data Modeling.
+
+[Tutorial](https://www.zentut.com/data-warehouse/what-is-data-warehouse/)
 
 #### 1.3.4.3 Object-Oriented(UML)
 #### 1.3.4.4  Fact-Based Modeling(FBM)
