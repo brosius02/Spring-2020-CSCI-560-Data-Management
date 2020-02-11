@@ -267,7 +267,16 @@ A relationship captures
   - The relationship lines in Relational model captures **business rules**.
   - The relationship lines in Dimensional model captures **navigation paths** needed to answer business questions.
 
-
++ **Fact Tables**
++ **Dimension Tables**
++ **Snowflaking**
++ **Grain**
++ **Confirmed Dimensions**
+  - built with the entire organization in mind instead of just a particular project
+  - example: **Calendar** for both **student applicants** and **student graduates**
++ **Confirmed Facts**
+  - standardized definitions of term across individual marts.
+  - to deal with situations like: different names with the same concept and the same name but different concepts.
 
 
 # Group Discussion 02/11/2020
