@@ -225,7 +225,7 @@ A relationship captures
 |---|---|
 |Relational|Information Engineering(IE)<br>Integration Definition for Information Modeling(IDF1X)<br>Barker Notation<br> Chen|
 |Dimensional|Dimensional|
-|Object-Oriented|Unified Modeling Language(RML)|
+|Object-Oriented|Unified Modeling Language(UML)|
 |Fact-Based|Object Role Model(ORM or ORM2)<br> Fully Communication Oriented Modeling(FCO-IM)
 |Time-Based|Data Vault<br>Anchor Modeling|
 |NoSQL|Document<br>Column<br>Graph<br>Key-Value|
