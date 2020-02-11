@@ -275,7 +275,7 @@ A relationship captures
 
 ![40](../Resources/ch5-1.png)
 
-![40](../Resources/ch5-1.png)
+![40](../Resources/ch5-2.png)
 
 
 ## 2. Discuss the concepts and process of Dimensional Data Modeling.
