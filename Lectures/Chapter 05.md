@@ -6,7 +6,7 @@
 
 ![28](../Resources/figure28.png)
 
-+ Six most commonly used schemas
++ Six most commonly used schemes
   - Relational
   - Dimensional
   - Object-Oriented
