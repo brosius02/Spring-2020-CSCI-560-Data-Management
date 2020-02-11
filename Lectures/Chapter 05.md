@@ -17,7 +17,7 @@
   - Conceptual
   - Logical
   - Physical
-
+  - More information [here](https://www.guru99.com/data-modelling-conceptual-logical.html)
 ## 1.1 Business Drivers
 + Data models are critical to effective management of data, they
   - Provide a common vocabulary around data
