@@ -232,7 +232,7 @@ A relationship captures
 
 
 
-|Scheme|Relational Database Management System(RDBMS)|Multidimensional Database Management(MDBMS)|Object Databases|Document|Column|Graph|Key-Value|
+|Scheme|Relational Database Management System(RDBMS)|Multidimensional Database Management System(MDBMS)|Object Databases|Document|Column|Graph|Key-Value|
 |---|---|---|---|---|---|---|---|
 |Relational|CDM<br>LDM<br>PDM|CDM<br>LDM|CDM<br>LDM|CDM<br>LDM|CDM<br>LDM|CDM<br>LDM|CDM<br>LDM|
 |Dimensional|CDM<br>LDM<br>PDM|CDM<br>LDM<br>PDM||||||
