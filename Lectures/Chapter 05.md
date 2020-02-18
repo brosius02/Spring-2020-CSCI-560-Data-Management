@@ -292,9 +292,118 @@ A relationship captures
 [Tutorial](https://www.zentut.com/data-warehouse/what-is-data-warehouse/)
 
 #### 1.3.4.3 Object-Oriented(UML)
++ The Unified Modeling Language(UML) is a graphical languages for modeling software. Then UML has a variety of notations of which one(the class model) concerns databases.
++ The UML class model specifies classes(entity types) and their relationship types.
+
+![41](../Resources/figure41.png)
+
++ Characteristics of a UML Class Model
+  - A class diagram resembles an ER diagram execept that the Operations or Methods section is not present in ER.
+  - In ER, the closest equivalent to Operations would be Stored Procedures.
+  - Attribute types are expressed in the implementable application code language and not in the physical implementable terminoloty
+  - Default values can be optionally shown in the notation.
+  - Access to data is through the class' exposed intercace. Encapsulation or data hiding is based on a 'localization effect'. A classand the instances that it maintains are exposed through Operations.
+  
++ Class Operations can be
+  - Public: Externally visible
+  - Internally visible: Visible to children Objects
+  - Private: Hidden
 #### 1.3.4.4  Fact-Based Modeling(FBM)
++ FBM is
+  - a family of conceptual modeling languages
+  - Object Role Modeling is the most widely used.
++ Object Role Modeling(ORM or ORM2)
+  - starts with typical examples of required information or queries.
+  - then verbalizes the examples at the conceptual level.
+  
+  ![42](../Resources/figure42.png)
+
++ Fully Communication Oriented Modeling(FCO-IM)
+  - The numbers are references to verbalizations of facts.
+  
+ ![43](../Resources/figure43.png)
+ 
 #### 1.3.4.5 Time-Based
++ Time-based patterns are used when data values must be associated in chronological order and with specific time values.
++ Data Vault Modeling
+  - specifically designed to meet the needs of enterprise data warehouses
+  - three types of entities
+    + hubs: Data Vault Model is focused around the functional areas of business with the hub representing the primary key.
+    + links: provides transaction integration between the hubs.
+    + satellites: provides the context of the hub primary key
+  - In the following figure, **Student** and **Course** are hubs. **Attendace** is a link, **Student Contact**, **Student Characteristics** and **Cource Description** are satellites.
+  
+   ![44](../Resources/figure44.png)
+   
++ Anchor Modeling 
+  - is a technique for information that changes over time in both stucture and content.
+  - has four basic modeling cocepts
+    + anchors: model entities and events
+    + attributes: model properties of anchors
+    + ties: model the relationships between anchors
+    + knots: model properties, such as states.
+  - See more explaination and exmaples [here](https://en.wikipedia.org/wiki/Anchor_modeling)
+  
+   
 #### 1.3.4.6 NoSQL
++ Four main types
+  - Document
+  - Key-Value
+  - Column-oriented
+  - Graph
++ Document
+  - store the business subject in one structure called **document**, instead of breaking it up into multiple structures
+  - example: **Student**, **Course**, and **Registration** information in one document called **Registration**.
++ Key-Value
+
+~~~
+  {name: "Douglas Adams",
+ street: "782 Southwest St.",
+ city: "Austin",
+ state:  "TX"}
+~~~
+
+![key-value](https://dv-website.s3.amazonaws.com/uploads/2018/09/kvd-pic1.png)
+
++ Column-oriented
+
+![Column-oriented](https://image.slidesharecdn.com/nosql-cassandra-lite-150310114631-conversion-gate01/95/nosql-database-cassandra-column-base-db-18-638.jpg?cb=1426006072)
+
++ Graph
+
+![graph](https://res.infoq.com/articles/graph-nosql-neo4j/en/resources/1image4.jpg)
+
+
+![4 nosql](https://s3.amazonaws.com/dev.assets.neo4j.com/wp-content/uploads/20181025032156/nosql-databases-overview.png)
+
+### 1.3.5 Data Model levels of Detail
++ Three levels
+  - Conceptual: This embodies the 'real world' view of the enterprise being modeled in the database. It represents the current 'best model' or 'way of doing business' for the enterprise.
+  - External/Logical: The various users of the DBMS operate on sub-sets of the total enterprise model that are relevant to their particular needs.
+  - Internal/Physical: describes the 'machine view' of the data(the stored representation of the enterprise's information).
+### 1.3.5.1 Conceptual
++ A conceptual data model captures the high-level data requirements as a collection of related concepts.
++ It contains only the basis and critical business entities with a given realm and function
++ with a description of each entity and the relationship between entities.
+
++ examples
+
+ ![46](../Resources/figure46.png)
+ 
+ ![40](../Resources/figure40.png)
+
+
+### 1.3.5.2 Logical
++ A logical data model is a detailed respresentation of data requirements, usually in support of a specific usage context, such as  application requirements.
++ still independent of any technology or specific implementation constraints.
++ often begins as an extension of a conceptual data model by adding attributes.
+
++ examples
+
+![48](../Resources/figure48.png)
+
+![49](../Resources/figure49.jpg)
+ 
 # 2. Acitivities
 ## 2.1 Plan for Data Modeling
 ## 2.2 Build the Data Model
