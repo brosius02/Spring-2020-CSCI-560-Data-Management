@@ -437,3 +437,25 @@ See details [here](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Man
 ## 5.1 Data Model and Design Quality Management
 ## 5.2 Data Modeling Metrics
 
+# Group Discussion
+# 1. create relational data model(s)
++ Continue with the design of the COMPANY data model
+
+![40](../Resources/ch5-1.png)
+
+![40](../Resources/ch5-2.png)
+
+
+# 2. create dimensional data model(s) 
++ We want to store the information of how many paracetamol and diclofenac tablets sold from single MedPlus store every day. Everything we model fall into two tables , a fact, that hold measures and dimension, hold information that qualifies the measure. 
++ Step 1: Chose Business Objective
+  - the business objective is to store the information of how many paracetamol and diclofenac tablets sold from single MedPlus store every day.
++ Step2: Identify Granularity
+  - Granularity is the lowest level of information stored in the table.
+  - In our example, say, a specific MedPlus shop sells 1,000 paracetamol tablets on a specific day then granularity is daily and 10,000 on specific month then granularity would be monthly.
+  - It is very important to set the granularity of the information required. In our case, it is daily.
++ Step3: Identify Dimension and its attributes
+  - Dimensions are objects or things. In our example, we are dealing with 3 things, a “Shop”, “Medicine”, and “Day”.
++ Step 4: Identify Fact
+  - Fact table holds something that is measurable. In our example, number of tablets sold is a measure.
+  
