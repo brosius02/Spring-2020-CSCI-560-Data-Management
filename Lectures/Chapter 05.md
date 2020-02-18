@@ -246,7 +246,7 @@ A relationship captures
 #### 1.3.4.1 Relational 
 + [A Relational Model of Data for Large Shared Data Banks](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
   - Data could most effectively be managed in terms of two-dimensional **relations**
-  - Objetvies
+  - Objectives
     + having an exact expression of business data
     + having one fact in one place(the removal of redundancy)
   - It is ideal for the design of operational systems, which require entering information quicky and having it stored accurately.
