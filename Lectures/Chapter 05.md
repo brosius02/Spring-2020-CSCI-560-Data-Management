@@ -402,8 +402,18 @@ A relationship captures
 
 ![48](../Resources/figure48.png)
 
-![49](../Resources/figure49)
- 
+![49](../Resources/figure49.png)
+
+### 1.3.5.3 Physical
++ A physical data model represents a detailed technical solution
++ often using the logical data model as a starting point
++ then adpated to work within a set of hardware, software, and network tools.
+
++ examples
+
+![50](../Resources/figure50.png)
+
+![51](../Resources/figure51.png)
 # 2. Acitivities
 ## 2.1 Plan for Data Modeling
 ## 2.2 Build the Data Model
