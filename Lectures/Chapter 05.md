@@ -420,6 +420,8 @@ A relationship captures
 ## 2.3 Review the Data Model
 ## 2.4 Maintain the Data Model
 
+See details [here](https://github.com/ZhangNingSAU/Spring-2020-CSCI-560-Data-Management/blob/master/Resources/data_modeling_activities.pdf)
+
 # 3. Tools
 ## 3.1 Data Modeling Tools
 ## 3.2 Lineage Tools
