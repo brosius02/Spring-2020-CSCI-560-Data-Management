@@ -402,7 +402,7 @@ A relationship captures
 
 ![48](../Resources/figure48.png)
 
-![49](../Resources/figure49.jpg)
+![49](../Resources/figure49)
  
 # 2. Acitivities
 ## 2.1 Plan for Data Modeling
